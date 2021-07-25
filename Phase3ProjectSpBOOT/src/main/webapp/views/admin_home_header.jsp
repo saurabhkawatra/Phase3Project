@@ -39,7 +39,7 @@
 
 
 
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top" style="z-index: 3000;">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
         <div class="container-fluid">
             <img class="navbar-brand" src="<%=request.getContextPath()%>/Resources/logo2.png" style="height:3%;width:3%;"/>
             <img class="navbar-brand" src="<%=request.getContextPath()%>/Resources/logotext.gif" style="height:15%;width:15%;"/>

@@ -17,7 +17,7 @@
 							<h3 class="text-primary" align="center" style="font-family: Copperplate Gothic;">All Purchase Details</h3>
 							<br /><br />
 							<table class="table table-dark">
-								<thead class="sticky-top" style="top:83px;">
+								<thead class="sticky-top" style="top:83px; z-index: 0;">
 								<tr align="center" style="vertical-align: middle;"><td  align="left"><b>S.No.</b></td><th scope="col">Purchase Entry Id</th><th scope="col">Purchased Product ID</th><th scope="col">Purchased Product Name</th><th scope="col">Purchased Product Image</th><th scope="col">Purchased Product-Type</th><th scope="col">Purchased Product-Category For</th><th scope="col">Purchased By UserId</th><th scope="col">Purchased By Customer-Name</th><th scope="col">Customer's Username</th><th scope="col">Purchase-Date</th></tr>                       
 								</thead>
 								<tbody class="table-success">

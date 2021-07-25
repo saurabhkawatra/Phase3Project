@@ -16,7 +16,7 @@
 							<h3 class="text-primary" align="center" style="font-family: Copperplate Gothic;">All Customer Details</h3>
 							<br /><br />
 							<table class="table table-dark">
-								<thead class="sticky-top" style="top:83px;">
+								<thead class="sticky-top" style="top:83px; z-index: 0;">
 								<tr align="center"><td  align="left"><b>S.No.</b></td><th scope="col">User Id</th><th scope="col">User Full Name</th><th scope="col">Username</th><th scope="col">User Phone No</th><th scope="col">User City</th><th scope="col">User DOB</th></tr>
 								</thead>
 								<tbody class="table-success">
